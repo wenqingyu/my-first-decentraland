@@ -12,5 +12,8 @@
   "devDependencies": {
     "decentraland-api": "latest",
     "decentraland": "latest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
